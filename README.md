@@ -27,11 +27,11 @@ Report Status (These questions need to be answered for part of your grade):
 
 1.1: What command did you use to bring the repository to your local machine?
 
-Answer:
+Answer: **git clone the https**
 
 1.2: What was your first commit message to push this file to GitHub?
 
-Answer:
+Answer: **"Initial Push"**
 
 Assignment 2: The Founding Visionaries
 
