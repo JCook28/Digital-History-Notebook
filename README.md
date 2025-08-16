@@ -112,15 +112,18 @@ Use git commit -m "Added modern innovators" to save your work.
 
 Use git push to publish your changes.
 
+[Bill Gates](bill-gates.md)
+[Steve Jobs](steve-jobs.md)
+
 Report Status:
 
 4.1: What command did you use to save your changes to your local notebook?
 
-Answer:
+Answer: **ctrl s or was it git push?**
 
 4.2: What command did you use to publish your changes to the remote repository?
 
-Answer:
+Answer: **git push**
 
 Assignment 5: Peer Review
 
