@@ -55,6 +55,9 @@ Use git commit -m "Added pioneers Ada and Alan" to save these changes to your lo
 
 Finally, use git push to publish your work to GitHub.
 
+[Ada Lovelace](ada-lovelace.md)
+[Alan Turing](alan-turing.md)
+
 Report Status:
 
 2.1: What two file names did you create?
