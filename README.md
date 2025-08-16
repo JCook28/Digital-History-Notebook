@@ -92,7 +92,7 @@ Report Status:
 
 3.1: What command did you use to retrieve the new information from GitHub?
 
-Answer:
+Answer: **git pull**
 
 Assignment 4: The Modern Era
 
@@ -237,3 +237,14 @@ A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 
 Be sure to answer the questions above as well.
+
+### Timeline: The Rise of the Internet
+- Launch of ARPANET (1969)
+- First Email Ever Sent (1971)
+- Adoption of TCP/IP (1983)
+- Tim Berners-Lee invents the World Wide Web (1989)
+  [Tim Berners](https://th.bing.com/th/id/R.099b2b0455d4a40e3b1ccd8e1adb837c?rik=FpRI3qxC9P4DTg&pid=ImgRaw&r=0)
+- The first graphical web browser (1993)
+- Google founded (1998)
+  [Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/500px-Google_2015_logo.svg.png)
+- Web 2.0 (1989-2004)
