@@ -253,3 +253,7 @@ Be sure to answer the questions above as well.
 - Google founded (1998)
   [Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/500px-Google_2015_logo.svg.png)
 - Web 2.0 (1989-2004)
+
+
+### Final Thoughts
+This project was helpful for me to remember, it is repetitive which I enjoy because it helps me remember things better and not just said once and hope for the best you have the skill to keep that in your brain. It was also enjoyable that it kept reminding me which git to do instead of just searching that thing up. Pretty Neat assignment overall, though please change your definition of a small paragraph.
