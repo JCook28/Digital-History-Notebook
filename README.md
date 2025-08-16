@@ -173,15 +173,17 @@ Use git commit -m "Added Tim Berners-Lee" to save these changes.
 
 Use git push to publish this final piece of research.
 
+[Tim Berners-Lee](tim-berners-lee.md)
+
 Report Status:
 
 6.1: What was your commit message for this assignment?
 
-Answer:
+Answer: **Added Time Berners-Lee**
 
 6.2: What command did you use to publish your work?
 
-Answer:
+Answer: **git push**
 
 Assignment 7: Final Edits
 
