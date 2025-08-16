@@ -207,7 +207,7 @@ Report Status:
 
 7.1: What command did you use to retrieve your final thoughts from GitHub?
 
-Answer:
+Answer: **git pull**
 
 High-Level Challenge: The Editing Mistake
 
