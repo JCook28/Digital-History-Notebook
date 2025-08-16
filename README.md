@@ -231,7 +231,7 @@ Report Status:
 
 Extra Credit: What command(s) did you use to undo the commit, and why did you choose that particular method?
 
-Answer:
+Answer: **git reset HEAD~1** - Software Engineer Tutorials
 
 Submission Instructions
 
