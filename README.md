@@ -149,11 +149,11 @@ Report Status:
 
 5.1: What did git status tell you after you ran git fetch?
 
-Answer:
+Answer: **Branch behind main by 1 commit**
 
 5.2: What command did you use to merge your peer's changes into your local notebook?
 
-Answer:
+Answer: **git fetch and git pull**
 
 Assignment 6: The Web's Inventor
 
